@@ -395,7 +395,7 @@ Pour toutes les Configurations détaillé, je vous invite a lire la documentatio
 
 ![VPN SSL Demonstration 02](./CAPTURES/VPN_SSL_Demonstration_02.png)
 
-## 10. Supersion & LOG
+## 10. Supervision & LOG
 
 ### Partie 1. Utilisateurs Connecté au Domaine 
 
