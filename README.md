@@ -418,5 +418,10 @@ L'architecture OpenBank répond aux plus hauts standards de sécurité actuels. 
 *Projet réalisé dans le cadre de la formation Administrateur Systèmes, Réseaux et Sécurité.*
 
 ---
+---
+## Licence
+Ce projet est sous licence **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+Toute utilisation commerciale est strictement interdite sans autorisation préalable. Consultez le fichier [LICENSE](./LICENSE) pour plus de détails.
 
+---
 Alexis Rousseau - *Administrateur Système Réseau & Sécurité* 
